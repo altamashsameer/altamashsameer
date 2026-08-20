@@ -83,17 +83,6 @@ These are proof I don't just build what I'm told to, I build what I'm curious ab
 
 <br/>
 
-## 📈 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=altamashsameer&show_icons=true&theme=radical&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_color=A855F7" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com?user=altamashsameer&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altamashsameer&layout=compact&theme=radical&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_color=A855F7" alt="Top Languages" height="165"/>
-
-</div>
-
 <br/>
 
 ## 🤝 Let's connect
